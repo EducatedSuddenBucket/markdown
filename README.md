@@ -108,10 +108,6 @@ JSON
   "dependencies": {}
 }
 ```
-SQL
-```
-SELECT * FROM users WHERE active = 1;
-```
 Shell
 ```shell
 echo "Hello, World!"
