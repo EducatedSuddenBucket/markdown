@@ -1,7 +1,4 @@
----
----
 
-/* @import "{{ site.theme }}";  this is the default */
 
 @import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css";
 
