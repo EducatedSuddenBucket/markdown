@@ -1,7 +1,7 @@
 
 # Markdown Showcase
 
-This document demonstrates **all things Markdown** and includes code blocks in multiple languages to test syntax highlighting.
+This document demonstrates **all things in Markdown** and includes code blocks in multiple languages to test syntax highlighting.
 
 ---
 
@@ -143,33 +143,6 @@ Horizontal Rules
 
 ---
 
-Task Lists
-
-[x] Completed task
-
-[ ] Incomplete task
-
-
-
----
-
-Math
-
-Inline: $E = mc^2$
-
-Block:
-
-\int_{a}^{b} x^2 \, dx
-
-
----
-
-Emojis
-
-:smile: :rocket: :tada:
-
-
----
 
 Footnotes
 
@@ -180,10 +153,3 @@ This is a sentence with a footnote.[^1]
 
 ---
 
-Escaping Characters
-
-Use a backslash to escape Markdown symbols:
-* _ `  # + - !
-
-
----
