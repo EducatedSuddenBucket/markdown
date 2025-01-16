@@ -8,14 +8,12 @@ body {
 
 @media (prefers-color-scheme: light) {
   body {
-    --color-canvas-default
     background-color: #ffffff;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   body {
-    --color-canvas-default
     background-color: #0d1117;
   }
 }
