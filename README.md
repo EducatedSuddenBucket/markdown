@@ -1,7 +1,5 @@
 
-# Markdown Showcase
-
-This document demonstrates **all things in Markdown** and includes code blocks in multiple languages to test syntax highlighting.
+# markdown
 
 ---
 
