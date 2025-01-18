@@ -32,7 +32,7 @@
     color: #e6edf3; 
   }
 
-  .markdown-body code,
+  .markdown-body highlight,
   .markdown-body kbd,
   .markdown-body pre {
     background-color: #161b22; 
